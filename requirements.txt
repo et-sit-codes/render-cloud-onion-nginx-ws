@@ -1,0 +1,15 @@
+beautifulsoup4
+websocket-client
+requests
+Flask
+psutil
+numpy
+pyaes
+rsa
+pycrypto
+fastapi
+PyJWT
+a2wsgi
+websockets
+aiohttp
+web3
