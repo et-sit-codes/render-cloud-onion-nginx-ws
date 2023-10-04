@@ -12,6 +12,10 @@ NGINX_PATH = os.path.expanduser("~/nginx.conf")
 CMDS = [
     ["python3", "summon_sub.py", "--port", "3031"],
     ["python3", "summon_sub.py", "--port", "3032"],
+    ["python3", "summon_sub.py", "--port", "3033"],
+    ["python3", "summon_sub.py", "--port", "3034"],
+    ["python3", "summon_sub.py", "--port", "3035"],
+    ["python3", "summon_sub.py", "--port", "3036"],
     ["python3", "nginx_switcher.py"],
 ]
 
